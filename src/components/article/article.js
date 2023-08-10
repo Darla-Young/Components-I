@@ -132,7 +132,7 @@ const articleMaker = article => {
   });
 
   // Step 3: Don't forget to return something from your function!
-  return console.log(holder);
+  return holder;
 }
 
 /*
