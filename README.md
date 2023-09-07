@@ -1,5 +1,5 @@
 # Components I
-[link](Newsfeed.png) 
+[](mocks\img\Newsfeed.png) 
 
 ## Project Description
 
