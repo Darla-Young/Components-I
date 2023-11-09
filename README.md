@@ -1,3 +1,11 @@
+# Bloomtech Newsfeed
+
+** Keywords **
+querySelector
+createElement
+appendChild
+toggle
+
 # Components I
 [](mocks\img\Newsfeed.png) 
 
